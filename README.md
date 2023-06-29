@@ -1,1 +1,1 @@
-Holberton Network
+Holberton School Network
